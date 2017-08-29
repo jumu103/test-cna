@@ -1,0 +1,8 @@
+{
+    "name": "Test-CNA",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "jurgen",
+    "contributors": [],
+    "dependencies": {}
+}
